@@ -1,0 +1,7 @@
+[
+  {
+    "function": "total_by_product",
+    "args": ["sales.csv"],
+    "expected": {"pen": 550, "book": 700, "bag": 900}
+  }
+]
